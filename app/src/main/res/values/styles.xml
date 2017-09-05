@@ -8,4 +8,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <declare-styleable name="SquareLayout">
+        <attr name="aspectRatio" format="float" />
+    </declare-styleable>
+
 </resources>
