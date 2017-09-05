@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--颜色-->
+
+    <!--标题-->
+    <color name="std_c1">#464646</color>
+    <!--辅助说明-->
+    <color name="std_c2">#909090</color>
+    <!--提示-->
+    <color name="std_c3">#bcbcbc</color>
+    <!--分割线-->
+    <color name="std_c4">#e6e6e6</color>
+    <!--背景色-->
+    <color name="std_c5">#f2f2f2</color>
+    <!--白色-->
+    <color name="std_c6">#ffffff</color>
+    <!--渐变浅色蓝-->
+    <color name="std_c7">#78aaff</color>
+    <!--渐变深色蓝-->
+    <color name="std_c8">#90a0ff</color>
+    <!--引导操作-->
+    <color name="std_c9">#88a0ff</color>
+    <!--警示操作-->
+    <color name="std_c10">#ff5050</color>
+
+
+    <!--文字-->
+
+    <!--文字说明等特殊场景字体20px-->
+    <dimen name="std_f1">10dp</dimen>
+    <!--辅助性文字说明26px-->
+    <dimen name="std_f2">13dp</dimen>
+    <!--列表右侧文字描述28px-->
+    <dimen name="std_f3">14dp</dimen>
+    <!--输入框文本，列表左侧文本30px-->
+    <dimen name="std_f4">15dp</dimen>
+    <!--标题32px-->
+    <dimen name="std_f5">16dp</dimen>
+
+
+    <!--间距-->
+    <!--默认左右间距30px-->
+    <dimen name="std_s1">15dp</dimen>
+    <!--卡片上下间距1 16px-->
+    <dimen name="std_s2">8dp</dimen>
+    <!--卡片上下间距2 30px-->
+    <dimen name="std_s3">15dp</dimen>
+    <!--单元项高度（卡片）100px-->
+    <dimen name="std_s4">50dp</dimen>
+    <!--按钮高度 88px-->
+    <dimen name="std_s5">44dp</dimen>
+
+
+    <!--按钮-->
+    <!--按钮字体大小32px-->
+    <dimen name="std_button_text">16dp</dimen>
+    <!--button 未点击-->
+    <color name="std_button_normal1">#78aaff</color>
+    <!--button 未点击-->
+    <color name="std_button_normal2">#90a0ff</color>
+    <!--button 点击-->
+    <color name="std_button_click1">#6e9ceb</color>
+    <!--button 点击-->
+    <color name="std_button_click2">#8493eb</color>
+    <!--button 未点击-->
+    <color name="std_button_unclickable">#e6e6e6</color>
+
+</resources>
